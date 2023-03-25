@@ -9,8 +9,7 @@ time, we aim at giving you a very short introduction to JavaFX.
 Java FX is a software framework for delivering UI desktop
 applications. It is the newest alternative to Java Swing.
 This demo project used as inspiration the [official Oracle
-documentation](https://docs.oracle.com/javafx/2/get_started/form.h
-tm).
+documentation](https://docs.oracle.com/javafx/2/get_started/form.htm).
 ## Issue Tracking
 For the purpose of demonstrating a complete Agile Workflow, we
 created a Jira instance that you can find
