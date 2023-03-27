@@ -1,5 +1,5 @@
 # **Student Manager Application**
-## This is working with the latest JavaFX
+## This is working with the Java19 by simply creating JavaFX 
 ## _Introduction_
 This application is an exercise for the FIS laboratory. You can
 find the lab assignment on the [lab web
